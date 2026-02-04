@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 31.01.26
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,8 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9b866668-cd0d-41f6-8d88-3f7404e71c61" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d72990f2-5699-4be8-99db-f6b83d801aa2" />
 
 ### Result:
+Thus, the preprocessing technique on Movie Data review using Rapidminer is implemented successfully.
